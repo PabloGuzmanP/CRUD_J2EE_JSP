@@ -1,0 +1,10 @@
+com\prueba_1\primerserver\servlets\SvEliminar.class
+persistencia\UsuarioJpaController.class
+com\prueba_1\primerserver\servlets\SvEditar.class
+logica\Usuario.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
+com\prueba_1\primerserver\servlets\SvUsuarios.class
+logica\Controladora.class
